@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <bool name="enable18">true</bool>
+    <bool name="enable">false</bool>
+
+</resources>
