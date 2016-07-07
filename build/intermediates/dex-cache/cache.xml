@@ -2,32 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jar="/Android/GitHub/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
-        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-192c7ffd98fb9c1b573592c153c223bb1ab2dbc2.jar" />
-    </item>
-    <item
-        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
-        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-a5c8632048b95396a2fa47c4d002f0a705b894a0.jar" />
-    </item>
-    <item
-        jar="/Users/HuynhBinh/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
-        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-fe061ac297c73592176052b718b050d2d4703bc2.jar" />
-    </item>
-    <item
-        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
-        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-2b569f0cb16d1520ba216721d2f61a1bc116f919.jar" />
+        <dex dex="/Android/GitHub/PopupNotifier/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-7b8bb13e123691abf7159abfb4435269620a20da.jar" />
     </item>
     <item
         jar="/Users/HuynhBinh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
@@ -37,6 +16,13 @@
         <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-5566256e25780adb3f2414f7a4bf43951c35b180.jar" />
     </item>
     <item
+        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-2b569f0cb16d1520ba216721d2f61a1bc116f919.jar" />
+    </item>
+    <item
         jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.github.clans/fab/1.5.4/jars/classes.jar"
         jumboMode="false"
         revision="22.0.1"
@@ -44,11 +30,60 @@
         <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-13ad285a5d1094dcd0765eedafb2f856d9c2282b.jar" />
     </item>
     <item
+        jar="/Android/GitHub/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Android/GitHub/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-7d4c1520dd80a4775afc23ce455fa0f7d6d1f3a7.jar" />
+    </item>
+    <item
+        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-192c7ffd98fb9c1b573592c153c223bb1ab2dbc2.jar" />
+    </item>
+    <item
         jar="/Android/AS Project/PopupNotifier/app/libs/sugar-1.3.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="5f8a323697ff1f101f72a345b14185d76d7c4353">
         <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/sugar-1.3-339b713c0f1be6e8fa923220890793a9e3323fb0.jar" />
+    </item>
+    <item
+        jar="/Android/GitHub/PopupNotifier/app/build/intermediates/exploded-aar/com.github.clans/fab/1.5.4/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f36ca85c9191834ee763ff73dfca1e8b1eb85ee">
+        <dex dex="/Android/GitHub/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-47e861f6765c2c13f204ce270d536abb0d9c313d.jar" />
+    </item>
+    <item
+        jar="/Android/GitHub/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Android/GitHub/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-9cd6b8e5b613caaf3bd0d9857ff3c4145a44504a.jar" />
+    </item>
+    <item
+        jar="/Users/HuynhBinh/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.3/a85588bec3e2c4584d593d3f15df1677321bca72/universal-image-loader-1.9.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a85588bec3e2c4584d593d3f15df1677321bca72">
+        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.3-fe061ac297c73592176052b718b050d2d4703bc2.jar" />
+    </item>
+    <item
+        jar="/Android/GitHub/PopupNotifier/app/libs/sugar-1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5f8a323697ff1f101f72a345b14185d76d7c4353">
+        <dex dex="/Android/GitHub/PopupNotifier/app/build/intermediates/pre-dexed/debug/sugar-1.3-a1eb0eae7041605696d3c7f72084f6a9c55d7967.jar" />
+    </item>
+    <item
+        jar="/Android/AS Project/PopupNotifier/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Android/AS Project/PopupNotifier/app/build/intermediates/pre-dexed/debug/classes-a5c8632048b95396a2fa47c4d002f0a705b894a0.jar" />
     </item>
 
 </items>
